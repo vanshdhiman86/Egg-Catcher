@@ -15,4 +15,4 @@ random
 3. You have 3 lives.
 
 
-<img src="images\e.jpg">
+<img src="images\e.png">
